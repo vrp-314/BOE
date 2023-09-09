@@ -1,2 +1,2 @@
 # BOE
-Business Objects - Reporting application
+Architecture of Web based Java application hosted on Tomcat
